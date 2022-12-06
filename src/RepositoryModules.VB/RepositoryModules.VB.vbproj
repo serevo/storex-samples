@@ -7,7 +7,7 @@
     <ProjectGuid>{6A204044-DD22-4513-A69A-4C2DCA024061}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>RepositoryModules</RootNamespace>
-    <AssemblyName>RepositoryModules</AssemblyName>
+    <AssemblyName>RepositoryModules.VB</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>Windows</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -19,7 +19,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>..\bin\Debug\</OutputPath>
-    <DocumentationFile>RepositoryModules.xml</DocumentationFile>
+    <DocumentationFile>RepositoryModules.VB.xml</DocumentationFile>
     <DefineConstants>_MYFORMS=True</DefineConstants>
     <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
     <WarningsAsErrors>
@@ -31,7 +31,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>..\bin\Release\</OutputPath>
-    <DocumentationFile>RepositoryModules.xml</DocumentationFile>
+    <DocumentationFile>RepositoryModules.VB.xml</DocumentationFile>
     <DefineConstants>_MYFORMS=True</DefineConstants>
     <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
     <WarningsAsErrors>

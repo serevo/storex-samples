@@ -8,7 +8,7 @@ using Storex;
 
 namespace RepositoryModules
 {
-    [RepositoryModuleExport("E0B3F83A-B417-43DB-8CCF-9916A2EB63C6", "簡易ファイルシステム", Description = "モードでシンボル内容等を設定します")]
+    [RepositoryModuleExport("E0B3F83A-B417-43DB-8CCF-9916A2EB63C6", "簡易ファイルシステム [C#]", Description = "モードでシンボル内容等を設定します")]
     public class RepositoryModule1 : IRepositoryModule
     {
         static readonly Encoding _textEncoding = Encoding.GetEncoding("shift_jis");

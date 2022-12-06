@@ -1,7 +1,7 @@
 ﻿Imports System.Threading
 Imports Storex
 
-<AuthenticationModuleExport("FCB29577-7E5B-4B0C-A514-B8E636AAF13D", "簡易認証 (ID入力)", Description:="CSVファイル (ID と 氏名) を使用します")>
+<AuthenticationModuleExport("A39FFBE1-2963-4A02-AA0F-75F8E2595DDC", "簡易認証 (ID入力) [VB]", Description:="CSVファイル (ID と 氏名) を使用します")>
 Public Class AuthenticationModule1
     Implements IAuthenticationModule
 

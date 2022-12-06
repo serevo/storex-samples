@@ -3,7 +3,7 @@ Imports System.Text
 Imports System.Threading
 Imports Storex
 
-<RepositoryModuleExport("E0B3F83A-B417-43DB-8CCF-9916A2EB63C6", "簡易ファイルシステム", Description:="モードでシンボル内容等を設定します")>
+<RepositoryModuleExport("ED8FE9A1-2A69-4C2D-8A4D-8D9DC36FA6C2", "簡易ファイルシステム [VB]", Description:="モードでシンボル内容等を設定します")>
 Public Class RepositoryModule1
     Implements IRepositoryModule
 
